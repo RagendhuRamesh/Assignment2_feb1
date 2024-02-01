@@ -1,0 +1,41 @@
+﻿body {
+    background-color: lightgoldenrodyellow;
+    color: darkblue;
+}
+
+.topPanel {
+    position: absolute;
+    left: 2%;
+    right: 2%;
+    top: 2%;
+    width: 96%;
+    height: 18%;
+    background-color: lightcyan;
+}
+
+.mainPanel {
+    position: absolute;
+    left: 2%;
+    right: 2%;
+    top: 20%;
+    width: 96%;
+    height: 78%;
+    background-color: white;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 2%;
+    right: 2%;
+    width: 96%;
+    background-color: lightcyan;
+    text-align: center;
+    // padding: 10px;
+}
+ul {
+    list-style: none;
+}
+
+h1, h2 {
+    text-align: center;
+}
